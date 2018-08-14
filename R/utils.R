@@ -68,4 +68,4 @@ github_error <- function(req) {
 }
 
 
-`%>%` <- magrittr::`%>%`
+
