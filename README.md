@@ -2,6 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/TysonStanley/sonatools/master)
+[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
 # sonatools
 
@@ -15,7 +16,7 @@ You can install the development version from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("TysonStanley/sonatools")
+devtools::install_github("tysonstanley/sonatools")
 ```
 
 ## Example
