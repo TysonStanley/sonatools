@@ -42,6 +42,4 @@ sona_get_secrets <- function(){
   c(username, password)
 }
 
-sona_set_secrets("tim", "U!M34")
-sona_get_secrets()
-sona_unset_secrets()
+
