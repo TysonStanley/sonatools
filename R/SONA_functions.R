@@ -9,6 +9,7 @@
 #' @param web_flag should all studies be included (-1), just the web ones (1), or just the lab ones (0)
 #' @param survey_flag should all studies be included (-1), just the online surveys ones (1), or all non-online survey ones (0)
 #'
+#' @importFrom stats setNames
 #'
 #' @export
 sona_getstudy <- function(main_url = "https://usu.sona-systems.com", active = -1, approved = -1, web_flag = -1, survey_flag = -1){
