@@ -2,7 +2,7 @@ Package: sonatools
 Title: SONA-Systems API Access
 Version: 0.1.1.9000
 Authors@R: person("Tyson S.", "Barrett", email = "t.barrett@aggiemail.usu.edu", role = c("aut", "cre"))
-Description: Allows one to access SONA-Systems via its API in R.
+Description: Provides access SONA-Systems via its API in R.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

@@ -29,5 +29,10 @@ sona_getstudy <- function(main_url = "https://usu.sona-systems.com", active = -1
 
 
 
+"GetParticipantStats" ## page 34
+"GetStudyStats" ## page 35
+"ActivateUser" ## page 45
+"DeactivateUser" ## page 46
+
 
 
